@@ -41,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-73">
+            <state relative-caret-position="153">
               <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,11 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +92,11 @@
         <option value="$PROJECT_DIR$/firstSeleniumProject/build.gradle" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java" />
+        <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -133,7 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548094817483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548258900568" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -151,7 +164,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OpenFireFoxBrowser.testeBaySearch">
+  <component name="RunManager" selected="TestNG.HWLypovanchuk.wikiTest">
+    <configuration name="HWLypovanchuk" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstSeleniumProject_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HWLypovanchuk" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HWLypovanchuk.wikiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstSeleniumProject_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HWLypovanchuk" />
+      <option name="METHOD_NAME" value="wikiTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OpenChromeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -186,22 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstSeleniumProject_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HWLypovanchuk.wikiTest" />
+        <item itemvalue="TestNG.HWLypovanchuk" />
         <item itemvalue="TestNG.OpenFireFoxBrowser.testeBaySearch" />
         <item itemvalue="TestNG.OpenChromeBrowser" />
         <item itemvalue="TestNG.OpenChromeBrowser.chromeBrowserTest" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
       </list>
     </recent_temporary>
   </component>
@@ -219,35 +245,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenChromeBrowser - 2019.01.20 at 22h 04m 27s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.01.21 at 19h 47m 42s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.21 at 20h 08m 27s.xml">
-      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser_chromeBrowserTest - 2019.01.21 at 20h 11m 16s.xml">
-      <configuration name="OpenChromeBrowser.chromeBrowserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.01.21 at 20h 21m 17s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.01.21 at 20h 22m 19s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.01.21 at 20h 26m 28s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenChromeBrowser - 2019.01.21 at 20h 42m 40s.xml">
-      <configuration name="OpenChromeBrowser" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.21 at 21h 06m 06s.xml">
       <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
     </history-entry>
     <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.21 at 21h 20m 18s.xml">
       <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 08m 41s.xml">
+      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 18m 37s.xml">
+      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 35m 37s.xml">
+      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 37m 39s.xml">
+      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 45m 41s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 46m 19s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 48m 35s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 50m 39s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -272,7 +298,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
+        <state relative-caret-position="153">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -316,8 +342,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
