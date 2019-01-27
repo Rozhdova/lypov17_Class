@@ -17,20 +17,65 @@ public class HWLypovanchuk {
     }
     @Test
     public void wikiTest(){
-        wd.get("https://www.wikipedia.org/");
-        wd.findElement(By.id("js-link-box-en")).click();
-        wd.findElement(By.id("pt-login")).click();
-        wd.findElement(By.id("wpName1")).click();
-        wd.findElement(By.id("wpName1")).clear();
-        wd.findElement(By.id("wpName1")).sendKeys("Lypovanchuk");
-        wd.findElement(By.id("wpPassword1")).click();
-        wd.findElement(By.id("wpPassword1")).clear();
-        wd.findElement(By.id("wpPassword1")).sendKeys("12345hu");
-        wd.findElement(By.id("wpRemember")).click();
-        wd.findElement(By.id("wpLoginAttempt")).click();
+        openSite();
+        chooseEngLanguage("js-link-box-en");
+        clickLogin();
+        clickLoginForm();
+        clearLoginForm();
+        fillLoginForm();
+        clickPasswordForm();
+        clearPasswordForm();
+        fillPasswordForm();
+        rememberLogPas();
+        submitLogin();
 
 
     }
+
+    public void submitLogin() {
+        wd.findElement(By.id("wpLoginAttempt")).click();
+    }
+
+    public void rememberLogPas() {
+        wd.findElement(By.id("wpRemember")).click();
+    }
+
+    public void fillPasswordForm() {
+        wd.findElement(By.id("wpPassword1")).sendKeys("12345hu");
+    }
+
+    public void clearPasswordForm() {
+        wd.findElement(By.id("wpPassword1")).clear();
+    }
+
+    public void clickPasswordForm() {
+        wd.findElement(By.id("wpPassword1")).click();
+    }
+
+    public void fillLoginForm() {
+        wd.findElement(By.id("wpName1")).sendKeys("Lypovanchuk");
+    }
+
+    public void clearLoginForm() {
+        wd.findElement(By.id("wpName1")).clear();
+    }
+
+    public void clickLoginForm() {
+        wd.findElement(By.id("wpName1")).click();
+    }
+
+    public void clickLogin() {
+        wd.findElement(By.id("pt-login")).click();
+    }
+
+    public void chooseEngLanguage(String s) {
+        wd.findElement(By.id(s)).click();
+    }
+
+    public void openSite() {
+        wd.get("https://www.wikipedia.org/");
+    }
+
     @AfterMethod
     public void tearnDown(){
         //wd.quit();

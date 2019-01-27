@@ -9,6 +9,9 @@
     <ignored path="$PROJECT_DIR$/firstSeleniumProject/.gradle/" />
     <ignored path="$PROJECT_DIR$/firstSeleniumProject/build/" />
     <ignored path="$PROJECT_DIR$/firstSeleniumProject/out/" />
+    <ignored path="$PROJECT_DIR$/second-selenium-project/.gradle/" />
+    <ignored path="$PROJECT_DIR$/second-selenium-project/build/" />
+    <ignored path="$PROJECT_DIR$/second-selenium-project/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +22,24 @@
     <projectState path="$PROJECT_DIR$/firstSeleniumProject">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/second-selenium-project">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="second-selenium-project" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -32,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="15" selection-start-column="45" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -41,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="131">
               <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,10 +69,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="-527">
+              <caret line="5" column="31" selection-start-line="4" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#858#859#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second-selenium-project/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +111,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="493">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1136#1137#0" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,11 +160,14 @@
         <option value="$PROJECT_DIR$/firstSeleniumProject/build.gradle" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java" />
+        <option value="$PROJECT_DIR$/second-selenium-project/build.gradle" />
+        <option value="$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest1.java" />
+        <option value="$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -137,7 +208,25 @@
             </path>
             <path>
               <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="second-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="second-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="second-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstSeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="second-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,11 +235,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548258900568" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548587648454" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HWLypovanchuk.wikiTest">
+  <component name="RunManager" selected="TestNG.HWLypovanchuk">
     <configuration name="HWLypovanchuk" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -175,11 +265,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWLypovanchuk.wikiTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstSeleniumProject_test" />
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="second-selenium-project_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HWLypovanchuk" />
-      <option name="METHOD_NAME" value="wikiTest" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="second-selenium-project_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,21 +287,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChromeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OpenFireFoxBrowser.testeBayFilter" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenChromeBrowser" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenChromeBrowser.chromeBrowserTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="firstSeleniumProject_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenChromeBrowser" />
-      <option name="METHOD_NAME" value="chromeBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="OpenFireFoxBrowser" />
+      <option name="METHOD_NAME" value="testeBayFilter" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -223,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HWLypovanchuk.wikiTest" />
         <item itemvalue="TestNG.HWLypovanchuk" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.testLogin" />
+        <item itemvalue="TestNG.OpenFireFoxBrowser.testeBayFilter" />
         <item itemvalue="TestNG.OpenFireFoxBrowser.testeBaySearch" />
-        <item itemvalue="TestNG.OpenChromeBrowser" />
-        <item itemvalue="TestNG.OpenChromeBrowser.chromeBrowserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -245,42 +335,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.21 at 21h 06m 06s.xml">
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 54m 20s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 55m 17s.xml">
+      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 19h 58m 13s.xml">
       <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.21 at 21h 20m 18s.xml">
+    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 19h 59m 37s.xml">
       <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 08m 41s.xml">
-      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 20h 01m 47s.xml">
+      <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 18m 37s.xml">
-      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    <history-entry file="OpenFireFoxBrowser_testeBayFilter - 2019.01.24 at 20h 05m 41s.xml">
+      <configuration name="OpenFireFoxBrowser.testeBayFilter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 35m 37s.xml">
-      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    <history-entry file="OpenFireFoxBrowser_testeBayFilter - 2019.01.24 at 20h 11m 19s.xml">
+      <configuration name="OpenFireFoxBrowser.testeBayFilter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk - 2019.01.23 at 18h 37m 39s.xml">
-      <configuration name="HWLypovanchuk" configurationId="TestNG" />
+    <history-entry file="LoginTest - 2019.01.24 at 21h 16m 57s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 45m 41s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    <history-entry file="LoginTest - 2019.01.24 at 21h 23m 18s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 46m 19s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 48m 35s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 50m 39s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    <history-entry file="LoginTest - 2019.01.24 at 21h 24m 30s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -289,8 +379,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,7 +394,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -316,13 +406,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="15" selection-start-column="45" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/30ade485699e7782cc2369b0e5d3d8e0bfc317c/guava-25.0-jre-sources.jar!/com/google/common/base/Preconditions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1394">
@@ -332,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="131">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -340,22 +423,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="-527">
+          <caret line="5" column="31" selection-start-line="4" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-selenium-project/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -412,12 +564,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>firstSeleniumProject_test|firstSeleniumProject</last-edited>
+          <last-edited>firstSeleniumProject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
