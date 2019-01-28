@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class HWLypovanchuk {
+public class LypovThrones {
     WebDriver wd;
 
     @BeforeMethod
@@ -16,32 +16,48 @@ public class HWLypovanchuk {
         wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
     }
     @Test
-    public  void wikiTest(){
-        openSite();
+    public void throneTest(){
+        openSite("https://www.wikipedia.org/");
         chooseEngLanguage("js-link-box-en");
         clickLogin();
         clickLoginForm();
         clearLoginForm();
-        fillLoginForm();
+        fillLoginForm("Lypovanchuk");
         clickPasswordForm();
         clearPasswordForm();
-        fillPasswordForm();
+        fillPasswordForm("12345hu");
         rememberLogPas();
-        submitLogin();
+        submitLogin("wpLoginAttempt");
+        clickSearch();
+        clearSearch();
+        fillSearchForm("Game of Thrones");
 
 
     }
 
-    public void submitLogin() {
-        wd.findElement(By.id("wpLoginAttempt")).click();
+    public void fillSearchForm(String f) {
+        wd.findElement(By.name("search")).sendKeys(f);
+    }
+
+    public void clearSearch() {
+
+        wd.findElement(By.name("search")).clear();
+    }
+
+    public void clickSearch() {
+        wd.findElement(By.name("search")).click();
+    }
+
+    public void submitLogin(String log) {
+        wd.findElement(By.id(log)).click();
     }
 
     public void rememberLogPas() {
-        wd.findElement(By.id("wpRemember")).click();
+        submitLogin("wpRemember");
     }
 
-    public void fillPasswordForm() {
-        wd.findElement(By.id("wpPassword1")).sendKeys("12345hu");
+    public void fillPasswordForm(String s) {
+        wd.findElement(By.id("wpPassword1")).sendKeys(s);
     }
 
     public void clearPasswordForm() {
@@ -49,11 +65,11 @@ public class HWLypovanchuk {
     }
 
     public void clickPasswordForm() {
-        wd.findElement(By.id("wpPassword1")).click();
+        submitLogin("wpPassword1");
     }
 
-    public void fillLoginForm() {
-        wd.findElement(By.id("wpName1")).sendKeys("Lypovanchuk");
+    public void fillLoginForm(String login) {
+        wd.findElement(By.id("wpName1")).sendKeys(login);
     }
 
     public void clearLoginForm() {
@@ -72,8 +88,8 @@ public class HWLypovanchuk {
         wd.findElement(By.id(s)).click();
     }
 
-    public void openSite() {
-        wd.get("https://www.wikipedia.org/");
+    public void openSite(String url) {
+        wd.get(url);
     }
 
     @AfterMethod

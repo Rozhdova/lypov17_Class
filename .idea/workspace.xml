@@ -57,27 +57,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="136">
               <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenFireFoxBrowser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-527">
-              <caret line="5" column="31" selection-start-line="4" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-                <element signature="e#811#812#0" expanded="true" />
-                <element signature="e#858#859#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,50 +76,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java">
+        <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="204">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
+        <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/LypovThrones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="646">
+              <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#985#986#0" expanded="true" />
-                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
                 <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#1099#1100#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1184#1185#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1188#1189#0" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1731#1732#0" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1819#1820#0" expanded="true" />
+                <element signature="e#1876#1877#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,6 +133,7 @@
         <option value="$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest1.java" />
         <option value="$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java" />
         <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java" />
+        <option value="$PROJECT_DIR$/firstSeleniumProject/src/test/java/LypovThrones.java" />
       </list>
     </option>
   </component>
@@ -179,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,10 +200,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548587648454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548679924880" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -254,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HWLypovanchuk">
+  <component name="RunManager" selected="TestNG.LypovThrones">
     <configuration name="HWLypovanchuk" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -265,21 +235,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="second-selenium-project_test" />
+    <configuration name="HWLypovanchuk.wikiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="second-selenium-project_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="testLogin" />
+      <option name="MAIN_CLASS_NAME" value="HWLypovanchuk" />
+      <option name="METHOD_NAME" value="wikiTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -287,11 +247,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenFireFoxBrowser.testeBayFilter" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LypovThrones" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenFireFoxBrowser" />
-      <option name="METHOD_NAME" value="testeBayFilter" />
+      <option name="MAIN_CLASS_NAME" value="LypovThrones" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LypovThrones.ThronesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstSeleniumProject_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LypovThrones" />
+      <option name="METHOD_NAME" value="ThronesTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -299,11 +269,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenFireFoxBrowser.testeBaySearch" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LypovThrones.throneTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstSeleniumProject_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenFireFoxBrowser" />
-      <option name="METHOD_NAME" value="testeBaySearch" />
+      <option name="MAIN_CLASS_NAME" value="LypovThrones" />
+      <option name="METHOD_NAME" value="throneTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -313,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LypovThrones" />
+        <item itemvalue="TestNG.LypovThrones.throneTest" />
         <item itemvalue="TestNG.HWLypovanchuk" />
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.testLogin" />
-        <item itemvalue="TestNG.OpenFireFoxBrowser.testeBayFilter" />
-        <item itemvalue="TestNG.OpenFireFoxBrowser.testeBaySearch" />
+        <item itemvalue="TestNG.HWLypovanchuk.wikiTest" />
+        <item itemvalue="TestNG.LypovThrones.ThronesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -335,42 +305,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 54m 20s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    <history-entry file="LypovThrones_throneTest - 2019.01.27 at 16h 48m 20s.xml">
+      <configuration name="LypovThrones.throneTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HWLypovanchuk_wikiTest - 2019.01.23 at 18h 55m 17s.xml">
-      <configuration name="HWLypovanchuk.wikiTest" configurationId="TestNG" />
+    <history-entry file="LypovThrones_throneTest - 2019.01.27 at 16h 49m 31s.xml">
+      <configuration name="LypovThrones.throneTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 19h 58m 13s.xml">
-      <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.27 at 16h 51m 23s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 19h 59m 37s.xml">
-      <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.27 at 16h 59m 14s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBaySearch - 2019.01.24 at 20h 01m 47s.xml">
-      <configuration name="OpenFireFoxBrowser.testeBaySearch" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.27 at 17h 00m 26s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBayFilter - 2019.01.24 at 20h 05m 41s.xml">
-      <configuration name="OpenFireFoxBrowser.testeBayFilter" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.27 at 17h 13m 03s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFireFoxBrowser_testeBayFilter - 2019.01.24 at 20h 11m 19s.xml">
-      <configuration name="OpenFireFoxBrowser.testeBayFilter" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.28 at 15h 21m 30s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 21h 16m 57s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.28 at 15h 24m 16s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 21h 23m 18s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.28 at 15h 25m 30s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.01.24 at 21h 24m 30s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="LypovThrones - 2019.01.28 at 15h 45m 31s.xml">
+      <configuration name="LypovThrones" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -379,7 +349,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,34 +383,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest1.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-425">
           <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,6 +420,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/OpenChromeBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/second-selenium-project/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -466,48 +444,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second-selenium-project/src/test/java/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="204">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/HWLypovanchuk.java">
+    <entry file="file://$PROJECT_DIR$/firstSeleniumProject/src/test/java/LypovThrones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="646">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
             <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
           </folding>
         </state>
       </provider>
